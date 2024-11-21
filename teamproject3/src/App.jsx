@@ -1,11 +1,8 @@
 
+export default function App() {
+  return(
+    <>
 
-function App() {
-  
-
-  return (
-  <div></div>
+    </>
   )
 }
-
-export default App
