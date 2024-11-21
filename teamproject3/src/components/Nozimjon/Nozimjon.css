@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.cont {
+    padding: 10px 50px 10px 50px;
+}
+
+.area {
+    background-color: #E9FBF9;
+    border-radius: 16px;
+}
+.table1 {
+    padding: 10px;
+    background-color: white;
+    color: #FF6107;
+    border-radius: 8px;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.p50 {
+    width: 50%;
+}
+.bigtxt1 {
+    font-size: 64px;
+    color: #021D1A;
+}
+.smalltxt {
+    font-size: 18px;
+    color: #464646;
+}
+.tp1 {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #FF823B;
+    color: white;
+    border-radius: 32px;
+    transition: 0.5s;
+    cursor: pointer;
+    border: 1px solid #FF823B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tp1:hover {
+    background-color: white;
+    color: #FF823B;
+}
+.tp2 {
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 10px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    color: #FF823B;
+}
+.lz {
+    background-color: white;
+    border-radius: 50% ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25px;
+    height: 25px;
+}
+.ll {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lll {
+    padding: 50px;
+}
+.bg {
+    width: 600px;
+}
+
+.lgplace {
+    background-color: #F1FAF9;
+    width: 250px;
+    height: 148px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.lggp {
+    display: flex;
+    justify-content: space-around;
+}

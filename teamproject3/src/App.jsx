@@ -1,11 +1,9 @@
+import Nozimjon from "./components/Nozimjon/Nozimjon"
 
-
-function App() {
-  
-
-  return (
-  <div></div>
+export default function App() {
+  return(
+    <>
+      <Nozimjon />
+    </>
   )
 }
-
-export default App
